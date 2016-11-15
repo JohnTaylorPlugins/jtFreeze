@@ -1,0 +1,9 @@
+name: jtFreeze
+version: 1.0
+author: John Taylor
+description: Makes you able to freeze people so you can 'SS' them.
+
+main: com.johntaylor.jtfreeze.Main
+
+commands:
+   freeze:
